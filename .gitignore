@@ -1,0 +1,7 @@
+.idea
+.env
+dev
+*.log
+api/.editorconfig
+api/vendor
+node_modules
